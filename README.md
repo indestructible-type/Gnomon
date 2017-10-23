@@ -14,7 +14,7 @@ Umbra* is an original OpenType variable font. It's made to showcase this new tec
 Changelog
 ---------
 <b>v1.0</b>
-Origonal Build.<br>
+Original Build.<br>
 
 Contact
 -------
