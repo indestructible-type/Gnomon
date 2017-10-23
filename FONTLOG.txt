@@ -1,0 +1,28 @@
+FONTLOG for Umbra*
+===================
+
+This file includes information about the Umbra* typeface by indestructible type*.
+
+
+About
+-----
+
+Umbra* is an original OpenType variable font created by indestructible type*. It is inspired by
+World War Two posters, and is made to display the capabilities of the OpenType variable font
+system.
+
+Umbra* is designed and maintained by Owen Earl (https://plus.google.com/103790404905174393616), 
+who is the creator of the font foundry indestructible type* (http://indestructible-type.github.io).
+
+
+
+
+Changelog
+---------
+=v1.0 October 2017=
+Making the font.
+
+
+Contact
+-------
+If you have questions, email me at indestructibletype@gmail.com
