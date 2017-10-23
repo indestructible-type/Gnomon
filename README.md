@@ -1,5 +1,6 @@
 [Umbra*](http://indestructible-type.github.io/Umbra.html)
 ========
+![Umbra* Picture](https://raw.githubusercontent.com/indestructible-type/Umbra/master/Source/0.png)
 Umbra* is an original OpenType variable font created by indestructible type*. It is inspired by
 World War Two posters, and is made to display the capabilities of the OpenType variable font
 system. This is version 1.0.
