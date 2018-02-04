@@ -14,9 +14,16 @@ Umbra* is an original OpenType variable font. It's made to showcase this new tec
 Changelog
 ---------
 <b>v1.0</b>
-Origonal Build.<br>
+Original Build.<br>
 <b>v1.1</b>
 Making Web Version<br>
+
+Building
+--------
+Umbra* is made using [fontmake](https://github.com/googlei18n/fontmake). To build Umbra*, 
+first install fontmake following the instructions in the fontmake repository. Then dowload 
+this repository, either using git or the download button. Cd into the directory of the version
+of Umbra* you'd like to use then run `fontmake -o variable -m umbra.designspace` to build Umbra*
 
 Contact
 -------
