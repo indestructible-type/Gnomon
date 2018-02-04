@@ -21,6 +21,8 @@ Changelog
 ---------
 =v1.0 October 2017=
 Making the font.
+=v1.1 Febuary 2018=
+Making Web Version
 
 
 Contact

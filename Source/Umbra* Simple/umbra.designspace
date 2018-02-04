@@ -1,255 +1,258 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8"?>
+
 <designspace format="3">
+
   <axes>
-      <axis default="9" maximum="18" minimum="6" name="timeofday" tag="tod">
+      <axis default="9" maximum="18" minimum="6" name="Time of Day" tag="TOTD">
         <labelname xml:lang="en">Time of Day</labelname>
       </axis>
-      <axis default="1" maximum="3" minimum="0" name="distance" tag="distance">
+      <axis default="1" maximum="3" minimum="0" name="Shadow Distance" tag="DIST">
         <labelname xml:lang="en">Shadow Distance</labelname>
       </axis>
   </axes>
+
   <sources>
-    <source familyname="umbra" filename="./sources/shadow1/umbra-0.ufo" name="master_0">
+    <source familyname="umbra" filename="./sources/1umbra-0.ufo" name="master_0">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
       <location>
-        <dimension name="timeofday" xvalue="6"/>
-        <dimension name="distance" xvalue="1"/>
+        <dimension name="Time of Day" xvalue="6"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow1/umbra-1.ufo" name="master_1">
+    <source familyname="umbra" filename="./sources/1umbra-1.ufo" name="master_1">
       <location>
-        <dimension name="timeofday" xvalue="7"/>
-        <dimension name="distance" xvalue="1"/>
+        <dimension name="Time of Day" xvalue="7"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow1/umbra-2.ufo" name="master_2">
+    <source familyname="umbra" filename="./sources/1umbra-2.ufo" name="master_2">
       <location>
-        <dimension name="timeofday" xvalue="8"/>
-        <dimension name="distance" xvalue="1"/>
+        <dimension name="Time of Day" xvalue="8"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow1/umbra-3.ufo" name="master_3">
+    <source familyname="umbra" filename="./sources/1umbra-3.ufo" name="master_3">
       <location>
-        <dimension name="timeofday" xvalue="9"/>
-        <dimension name="distance" xvalue="1"/>
+        <dimension name="Time of Day" xvalue="9"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow1/umbra-4.ufo" name="master_4">
+    <source familyname="umbra" filename="./sources/1umbra-4.ufo" name="master_4">
       <location>
-        <dimension name="timeofday" xvalue="10"/>
-        <dimension name="distance" xvalue="1"/>
+        <dimension name="Time of Day" xvalue="10"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow1/umbra-5.ufo" name="master_5">
+    <source familyname="umbra" filename="./sources/1umbra-5.ufo" name="master_5">
       <location>
-        <dimension name="timeofday" xvalue="11"/>
-        <dimension name="distance" xvalue="1"/>
+        <dimension name="Time of Day" xvalue="11"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow1/umbra-6.ufo" name="master_6">
+    <source familyname="umbra" filename="./sources/1umbra-6.ufo" name="master_6">
       <location>
-        <dimension name="timeofday" xvalue="12"/>
-        <dimension name="distance" xvalue="1"/>
+        <dimension name="Time of Day" xvalue="12"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow1/umbra-7.ufo" name="master_7">
+    <source familyname="umbra" filename="./sources/1umbra-7.ufo" name="master_7">
       <location>
-        <dimension name="timeofday" xvalue="13"/>
-        <dimension name="distance" xvalue="1"/>
+        <dimension name="Time of Day" xvalue="13"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow1/umbra-8.ufo" name="master_8">
+    <source familyname="umbra" filename="./sources/1umbra-8.ufo" name="master_8">
       <location>
-        <dimension name="timeofday" xvalue="14"/>
-        <dimension name="distance" xvalue="1"/>
+        <dimension name="Time of Day" xvalue="14"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow1/umbra-9.ufo" name="master_9">
+    <source familyname="umbra" filename="./sources/1umbra-9.ufo" name="master_9">
       <location>
-        <dimension name="timeofday" xvalue="15"/>
-        <dimension name="distance" xvalue="1"/>
+        <dimension name="Time of Day" xvalue="15"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow1/umbra-10.ufo" name="master_10">
+    <source familyname="umbra" filename="./sources/1umbra-10.ufo" name="master_10">
       <location>
-        <dimension name="timeofday" xvalue="16"/>
-        <dimension name="distance" xvalue="1"/>
+        <dimension name="Time of Day" xvalue="16"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow1/umbra-11.ufo" name="master_11">
+    <source familyname="umbra" filename="./sources/1umbra-11.ufo" name="master_11">
       <location>
-        <dimension name="timeofday" xvalue="17"/>
-        <dimension name="distance" xvalue="1"/>
+        <dimension name="Time of Day" xvalue="17"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow1/umbra-12.ufo" name="master_12">
+    <source familyname="umbra" filename="./sources/1umbra-12.ufo" name="master_12">
       <location>
-        <dimension name="timeofday" xvalue="18"/>
-        <dimension name="distance" xvalue="1"/>
+        <dimension name="Time of Day" xvalue="18"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
       </location>
     </source>
 
 //Start of new thing!
 
-    <source familyname="umbra" filename="./sources/shadow0/umbra-0.ufo" name="master_13">
+    <source familyname="umbra" filename="./sources/0umbra-0.ufo" name="master_13">
       <location>
-        <dimension name="timeofday" xvalue="6"/>
-        <dimension name="distance" xvalue="0"/>
+        <dimension name="Time of Day" xvalue="6"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow0/umbra-1.ufo" name="master_14">
+    <source familyname="umbra" filename="./sources/0umbra-1.ufo" name="master_14">
       <location>
-        <dimension name="timeofday" xvalue="7"/>
-        <dimension name="distance" xvalue="0"/>
+        <dimension name="Time of Day" xvalue="7"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow0/umbra-2.ufo" name="master_15">
+    <source familyname="umbra" filename="./sources/0umbra-2.ufo" name="master_15">
       <location>
-        <dimension name="timeofday" xvalue="8"/>
-        <dimension name="distance" xvalue="0"/>
+        <dimension name="Time of Day" xvalue="8"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow0/umbra-3.ufo" name="master_16">
+    <source familyname="umbra" filename="./sources/0umbra-3.ufo" name="master_16">
       <location>
-        <dimension name="timeofday" xvalue="9"/>
-        <dimension name="distance" xvalue="0"/>
+        <dimension name="Time of Day" xvalue="9"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow0/umbra-4.ufo" name="master_17">
+    <source familyname="umbra" filename="./sources/0umbra-4.ufo" name="master_17">
       <location>
-        <dimension name="timeofday" xvalue="10"/>
-        <dimension name="distance" xvalue="0"/>
+        <dimension name="Time of Day" xvalue="10"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow0/umbra-5.ufo" name="master_18">
+    <source familyname="umbra" filename="./sources/0umbra-5.ufo" name="master_18">
       <location>
-        <dimension name="timeofday" xvalue="11"/>
-        <dimension name="distance" xvalue="0"/>
+        <dimension name="Time of Day" xvalue="11"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow0/umbra-6.ufo" name="master_19">
+    <source familyname="umbra" filename="./sources/0umbra-6.ufo" name="master_19">
       <location>
-        <dimension name="timeofday" xvalue="12"/>
-        <dimension name="distance" xvalue="0"/>
+        <dimension name="Time of Day" xvalue="12"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow0/umbra-7.ufo" name="master_20">
+    <source familyname="umbra" filename="./sources/0umbra-7.ufo" name="master_20">
       <location>
-        <dimension name="timeofday" xvalue="13"/>
-        <dimension name="distance" xvalue="0"/>
+        <dimension name="Time of Day" xvalue="13"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow0/umbra-8.ufo" name="master_21">
+    <source familyname="umbra" filename="./sources/0umbra-8.ufo" name="master_21">
       <location>
-        <dimension name="timeofday" xvalue="14"/>
-        <dimension name="distance" xvalue="0"/>
+        <dimension name="Time of Day" xvalue="14"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow0/umbra-9.ufo" name="master_22">
+    <source familyname="umbra" filename="./sources/0umbra-9.ufo" name="master_22">
       <location>
-        <dimension name="timeofday" xvalue="15"/>
-        <dimension name="distance" xvalue="0"/>
+        <dimension name="Time of Day" xvalue="15"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow0/umbra-10.ufo" name="master_23">
+    <source familyname="umbra" filename="./sources/0umbra-10.ufo" name="master_23">
       <location>
-        <dimension name="timeofday" xvalue="16"/>
-        <dimension name="distance" xvalue="0"/>
+        <dimension name="Time of Day" xvalue="16"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow0/umbra-11.ufo" name="master_24">
+    <source familyname="umbra" filename="./sources/0umbra-11.ufo" name="master_24">
       <location>
-        <dimension name="timeofday" xvalue="17"/>
-        <dimension name="distance" xvalue="0"/>
+        <dimension name="Time of Day" xvalue="17"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow0/umbra-12.ufo" name="master_25">
+    <source familyname="umbra" filename="./sources/0umbra-12.ufo" name="master_25">
       <location>
-        <dimension name="timeofday" xvalue="18"/>
-        <dimension name="distance" xvalue="0"/>
+        <dimension name="Time of Day" xvalue="18"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
       </location>
     </source>
 
     //Start of new thing!
 
-    <source familyname="umbra" filename="./sources/shadow3/umbra-0.ufo" name="master_26">
+    <source familyname="umbra" filename="./sources/3umbra-0.ufo" name="master_26">
       <location>
-        <dimension name="timeofday" xvalue="6"/>
-        <dimension name="distance" xvalue="3"/>
+        <dimension name="Time of Day" xvalue="6"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow3/umbra-1.ufo" name="master_27">
+    <source familyname="umbra" filename="./sources/3umbra-1.ufo" name="master_27">
       <location>
-        <dimension name="timeofday" xvalue="7"/>
-        <dimension name="distance" xvalue="3"/>
+        <dimension name="Time of Day" xvalue="7"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow3/umbra-2.ufo" name="master_28">
+    <source familyname="umbra" filename="./sources/3umbra-2.ufo" name="master_28">
       <location>
-        <dimension name="timeofday" xvalue="8"/>
-        <dimension name="distance" xvalue="3"/>
+        <dimension name="Time of Day" xvalue="8"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow3/umbra-3.ufo" name="master_29">
+    <source familyname="umbra" filename="./sources/3umbra-3.ufo" name="master_29">
       <location>
-        <dimension name="timeofday" xvalue="9"/>
-        <dimension name="distance" xvalue="3"/>
+        <dimension name="Time of Day" xvalue="9"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow3/umbra-4.ufo" name="master_30">
+    <source familyname="umbra" filename="./sources/3umbra-4.ufo" name="master_30">
       <location>
-        <dimension name="timeofday" xvalue="10"/>
-        <dimension name="distance" xvalue="3"/>
+        <dimension name="Time of Day" xvalue="10"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow3/umbra-5.ufo" name="master_31">
+    <source familyname="umbra" filename="./sources/3umbra-5.ufo" name="master_31">
       <location>
-        <dimension name="timeofday" xvalue="11"/>
-        <dimension name="distance" xvalue="3"/>
+        <dimension name="Time of Day" xvalue="11"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow3/umbra-6.ufo" name="master_32">
+    <source familyname="umbra" filename="./sources/3umbra-6.ufo" name="master_32">
       <location>
-        <dimension name="timeofday" xvalue="12"/>
-        <dimension name="distance" xvalue="3"/>
+        <dimension name="Time of Day" xvalue="12"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow3/umbra-7.ufo" name="master_33">
+    <source familyname="umbra" filename="./sources/3umbra-7.ufo" name="master_33">
       <location>
-        <dimension name="timeofday" xvalue="13"/>
-        <dimension name="distance" xvalue="3"/>
+        <dimension name="Time of Day" xvalue="13"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow3/umbra-8.ufo" name="master_34">
+    <source familyname="umbra" filename="./sources/3umbra-8.ufo" name="master_34">
       <location>
-        <dimension name="timeofday" xvalue="14"/>
-        <dimension name="distance" xvalue="3"/>
+        <dimension name="Time of Day" xvalue="14"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow3/umbra-9.ufo" name="master_35">
+    <source familyname="umbra" filename="./sources/3umbra-9.ufo" name="master_35">
       <location>
-        <dimension name="timeofday" xvalue="15"/>
-        <dimension name="distance" xvalue="3"/>
+        <dimension name="Time of Day" xvalue="15"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow3/umbra-10.ufo" name="master_36">
+    <source familyname="umbra" filename="./sources/3umbra-10.ufo" name="master_36">
       <location>
-        <dimension name="timeofday" xvalue="16"/>
-        <dimension name="distance" xvalue="3"/>
+        <dimension name="Time of Day" xvalue="16"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow3/umbra-11.ufo" name="master_37">
+    <source familyname="umbra" filename="./sources/3umbra-11.ufo" name="master_37">
       <location>
-        <dimension name="timeofday" xvalue="17"/>
-        <dimension name="distance" xvalue="3"/>
+        <dimension name="Time of Day" xvalue="17"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
       </location>
     </source>
-    <source familyname="umbra" filename="./sources/shadow3/umbra-12.ufo" name="master_38">
+    <source familyname="umbra" filename="./sources/3umbra-12.ufo" name="master_38">
       <location>
-        <dimension name="timeofday" xvalue="18"/>
-        <dimension name="distance" xvalue="3"/>
+        <dimension name="Time of Day" xvalue="18"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
       </location>
     </source>
   </sources>
