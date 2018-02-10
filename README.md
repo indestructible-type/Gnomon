@@ -25,7 +25,7 @@ Building
 Gnomon* is made using [fontmake](https://github.com/googlei18n/fontmake). To build Gnomon*, 
 first install fontmake following the instructions in the fontmake repository. Then dowload 
 this repository, either using git or the download button. Cd into the directory of the version
-of Gnomon* you'd like to use then run `fontmake -o variable -m umbra.designspace` to build Gnomon*
+of Gnomon* you'd like to use then run `fontmake -o variable -m gnomon.designspace` to build Gnomon*
 
 Contact
 -------
