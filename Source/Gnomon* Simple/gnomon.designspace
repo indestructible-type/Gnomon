@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<designspace format="3">
+
+  <axes>
+      <axis default="9" maximum="18" minimum="6" name="Time of Day" tag="TOTD">
+        <labelname xml:lang="en">Time of Day</labelname>
+      </axis>
+      <axis default="1" maximum="3" minimum="0" name="Shadow Distance" tag="DIST">
+        <labelname xml:lang="en">Shadow Distance</labelname>
+      </axis>
+  </axes>
+
+  <sources>
+    <source familyname="Gnomon" filename="./sources/1Gnomon-0.ufo" name="master_0">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="Time of Day" xvalue="6"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/1Gnomon-1.ufo" name="master_1">
+      <location>
+        <dimension name="Time of Day" xvalue="7"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/1Gnomon-2.ufo" name="master_2">
+      <location>
+        <dimension name="Time of Day" xvalue="8"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/1Gnomon-3.ufo" name="master_3">
+      <location>
+        <dimension name="Time of Day" xvalue="9"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/1Gnomon-4.ufo" name="master_4">
+      <location>
+        <dimension name="Time of Day" xvalue="10"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/1Gnomon-5.ufo" name="master_5">
+      <location>
+        <dimension name="Time of Day" xvalue="11"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/1Gnomon-6.ufo" name="master_6">
+      <location>
+        <dimension name="Time of Day" xvalue="12"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/1Gnomon-7.ufo" name="master_7">
+      <location>
+        <dimension name="Time of Day" xvalue="13"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/1Gnomon-8.ufo" name="master_8">
+      <location>
+        <dimension name="Time of Day" xvalue="14"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/1Gnomon-9.ufo" name="master_9">
+      <location>
+        <dimension name="Time of Day" xvalue="15"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/1Gnomon-10.ufo" name="master_10">
+      <location>
+        <dimension name="Time of Day" xvalue="16"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/1Gnomon-11.ufo" name="master_11">
+      <location>
+        <dimension name="Time of Day" xvalue="17"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/1Gnomon-12.ufo" name="master_12">
+      <location>
+        <dimension name="Time of Day" xvalue="18"/>
+        <dimension name="Shadow Distance" xvalue="1"/>
+      </location>
+    </source>
+
+//Start of new thing!
+
+    <source familyname="Gnomon" filename="./sources/0Gnomon-0.ufo" name="master_13">
+      <location>
+        <dimension name="Time of Day" xvalue="6"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/0Gnomon-1.ufo" name="master_14">
+      <location>
+        <dimension name="Time of Day" xvalue="7"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/0Gnomon-2.ufo" name="master_15">
+      <location>
+        <dimension name="Time of Day" xvalue="8"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/0Gnomon-3.ufo" name="master_16">
+      <location>
+        <dimension name="Time of Day" xvalue="9"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/0Gnomon-4.ufo" name="master_17">
+      <location>
+        <dimension name="Time of Day" xvalue="10"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/0Gnomon-5.ufo" name="master_18">
+      <location>
+        <dimension name="Time of Day" xvalue="11"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/0Gnomon-6.ufo" name="master_19">
+      <location>
+        <dimension name="Time of Day" xvalue="12"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/0Gnomon-7.ufo" name="master_20">
+      <location>
+        <dimension name="Time of Day" xvalue="13"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/0Gnomon-8.ufo" name="master_21">
+      <location>
+        <dimension name="Time of Day" xvalue="14"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/0Gnomon-9.ufo" name="master_22">
+      <location>
+        <dimension name="Time of Day" xvalue="15"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/0Gnomon-10.ufo" name="master_23">
+      <location>
+        <dimension name="Time of Day" xvalue="16"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/0Gnomon-11.ufo" name="master_24">
+      <location>
+        <dimension name="Time of Day" xvalue="17"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/0Gnomon-12.ufo" name="master_25">
+      <location>
+        <dimension name="Time of Day" xvalue="18"/>
+        <dimension name="Shadow Distance" xvalue="0"/>
+      </location>
+    </source>
+
+    //Start of new thing!
+
+    <source familyname="Gnomon" filename="./sources/3Gnomon-0.ufo" name="master_26">
+      <location>
+        <dimension name="Time of Day" xvalue="6"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/3Gnomon-1.ufo" name="master_27">
+      <location>
+        <dimension name="Time of Day" xvalue="7"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/3Gnomon-2.ufo" name="master_28">
+      <location>
+        <dimension name="Time of Day" xvalue="8"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/3Gnomon-3.ufo" name="master_29">
+      <location>
+        <dimension name="Time of Day" xvalue="9"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/3Gnomon-4.ufo" name="master_30">
+      <location>
+        <dimension name="Time of Day" xvalue="10"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/3Gnomon-5.ufo" name="master_31">
+      <location>
+        <dimension name="Time of Day" xvalue="11"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/3Gnomon-6.ufo" name="master_32">
+      <location>
+        <dimension name="Time of Day" xvalue="12"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/3Gnomon-7.ufo" name="master_33">
+      <location>
+        <dimension name="Time of Day" xvalue="13"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/3Gnomon-8.ufo" name="master_34">
+      <location>
+        <dimension name="Time of Day" xvalue="14"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/3Gnomon-9.ufo" name="master_35">
+      <location>
+        <dimension name="Time of Day" xvalue="15"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/3Gnomon-10.ufo" name="master_36">
+      <location>
+        <dimension name="Time of Day" xvalue="16"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/3Gnomon-11.ufo" name="master_37">
+      <location>
+        <dimension name="Time of Day" xvalue="17"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
+      </location>
+    </source>
+    <source familyname="Gnomon" filename="./sources/3Gnomon-12.ufo" name="master_38">
+      <location>
+        <dimension name="Time of Day" xvalue="18"/>
+        <dimension name="Shadow Distance" xvalue="3"/>
+      </location>
+    </source>
+  </sources>
+</designspace>
