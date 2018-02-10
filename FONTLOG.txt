@@ -1,17 +1,17 @@
-FONTLOG for Umbra*
+FONTLOG for Gnomon*
 ===================
 
-This file includes information about the Umbra* typeface by indestructible type*.
+This file includes information about the Gnomon* typeface by indestructible type*.
 
 
 About
 -----
 
-Umbra* is an original OpenType variable font created by indestructible type*. It is inspired by
+Gnomon* is an original OpenType variable font created by indestructible type*. It is inspired by
 World War Two posters, and is made to display the capabilities of the OpenType variable font
 system.
 
-Umbra* is designed and maintained by Owen Earl (https://plus.google.com/103790404905174393616), 
+Gnomon* is designed and maintained by Owen Earl (https://plus.google.com/103790404905174393616), 
 who is the creator of the font foundry indestructible type* (http://indestructible-type.github.io).
 
 
@@ -23,6 +23,8 @@ Changelog
 Making the font.
 =v1.1 Febuary 2018=
 Making Web Version
+=v1.2 Febuary 2018=
+Changed name to Gnomon*
 
 
 Contact
